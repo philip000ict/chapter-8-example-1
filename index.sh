@@ -2,3 +2,4 @@
 # When you push changes to this shell script GitHub Action automatically runs it.
 
 echo "Hello Oh Johnny O by Jimminy!"
+echo "Hello One Johnny 1 by Jommony!"
